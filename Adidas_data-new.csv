@@ -1,4 +1,4 @@
-Retailer,Retailer ID,Invoice Date,Region,State,City,Product,Price per Unit,Units Sold,Operating Profit,Operating Margin,Sales Method
+Retailer,Retailer_ID,Invoice_Date,Region,State,City,Product,Price_per_Unit,Units_Sold,Operating_Profit,Operating_Margin,Sales_Method
 Foot Locker,1185732.0,2020-01-01,Northeast,New York,New York,Men's Street Footwear,50.0,1200.0,300000.0,0.5,In-store
 Foot Locker,1185732.0,2020-01-02,Northeast,New York,New York,Men's Athletic Footwear,50.0,1000.0,150000.0,0.3,In-store
 Foot Locker,1185732.0,2020-01-03,Northeast,New York,New York,Women's Street Footwear,40.0,1000.0,140000.0,0.35,In-store
